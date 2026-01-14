@@ -1,0 +1,33 @@
+HELP.md
+/microservices-spring-boot-4-spring-cloud-urk/target/
+/microservices-spring-boot-4-spring-cloud-urk/.mvn/wrapper/maven-wrapper.jar
+!**/microservices-spring-boot-4-spring-cloud-urk/src/main/**/target/
+!**/microservices-spring-boot-4-spring-cloud-urk/src/test/**/target/
+
+### STS ###
+/microservices-spring-boot-4-spring-cloud-urk/.apt_generated
+/microservices-spring-boot-4-spring-cloud-urk/.classpath
+.factorypath
+/microservices-spring-boot-4-spring-cloud-urk/.project
+/microservices-spring-boot-4-spring-cloud-urk/.settings
+/microservices-spring-boot-4-spring-cloud-urk/.springBeans
+/microservices-spring-boot-4-spring-cloud-urk/.sts4-cache
+
+### IntelliJ IDEA ###
+/microservices-spring-boot-4-spring-cloud-urk/.idea
+/microservices-spring-boot-4-spring-cloud-urk/*.iws
+/microservices-spring-boot-4-spring-cloud-urk/*.iml
+/microservices-spring-boot-4-spring-cloud-urk/*.ipr
+
+### NetBeans ###
+/microservices-spring-boot-4-spring-cloud-urk/nbproject/private/
+/microservices-spring-boot-4-spring-cloud-urk/nbbuild/
+/microservices-spring-boot-4-spring-cloud-urk/dist/
+/microservices-spring-boot-4-spring-cloud-urk/nbdist/
+/microservices-spring-boot-4-spring-cloud-urk/.nb-gradle/
+/microservices-spring-boot-4-spring-cloud-urk/build/
+!**/microservices-spring-boot-4-spring-cloud-urk/src/main/**/build/
+!**/microservices-spring-boot-4-spring-cloud-urk/src/test/**/build/
+
+### VS Code ###
+.vscode/microservices-spring-boot-4-spring-cloud-urk/
