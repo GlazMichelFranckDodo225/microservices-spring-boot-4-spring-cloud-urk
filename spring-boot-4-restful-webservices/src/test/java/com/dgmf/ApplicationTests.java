@@ -1,10 +1,10 @@
-package com.dgmf.spring_boot_4_restful_webservices;
+package com.dgmf;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBoot4RestfulWebservicesApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {

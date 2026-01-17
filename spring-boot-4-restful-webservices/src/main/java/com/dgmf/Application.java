@@ -1,13 +1,13 @@
-package com.dgmf.spring_boot_4_restful_webservices;
+package com.dgmf;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBoot4RestfulWebservicesApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBoot4RestfulWebservicesApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }
